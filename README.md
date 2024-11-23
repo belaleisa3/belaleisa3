@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @belaleisa3
+- 👋 Hi, I’m Belal A Eisa
 - 👀 I’m interested in Digital IC Design
 - 🌱 I’m currently learning Communication Engineering
